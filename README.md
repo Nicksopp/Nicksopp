@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 - 🌱 I’m currently studying **Shree L.R. Tiwari college of Engineering**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nicksopp](https://github.com/Nicksopp)
+- 👨‍💻 All of my projects are available at https://github.com/Nicksopp?tab=repositories
 
 - 📫 How to reach me **nikeshpurohitt@gmail.com**
 
