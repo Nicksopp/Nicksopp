@@ -3,7 +3,7 @@
 <h3 align="center">A passionate for creating some masterpiece from my end !</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
-- 🌱 I’m currently studying **Shree L.R. Tiwari college of Engineering**
+- 🌱 I’m currently studying #Shree L.R. Tiwari college of Engineering
 
 - 👨‍💻 All of my projects are available at 👇
 
