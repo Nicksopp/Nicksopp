@@ -6,7 +6,8 @@
 - 🌱 I’m currently studying **Shree L.R. Tiwari college of Engineering**
 
 - 👨‍💻 All of my projects are available at 👇
-   https://github.com/Nicksopp?tab=repositories
+
+  https://github.com/Nicksopp?tab=repositories
 
 - 📫 How to reach me **nikeshpurohitt@gmail.com**
 
