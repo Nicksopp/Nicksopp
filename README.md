@@ -1,3 +1,4 @@
+![Blue Modern Corporate Staff Profile LinkedIn Banner](https://github.com/user-attachments/assets/8df02dd1-a848-4d3b-a357-69f0f318d9dd)
 ![logo](https://github.com/Nicksopp/Nicksopp/blob/main/Blue%20%26%20Black%20Modern%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Nikesh Purohit</h1>
 <h3 align="center">A passionate for creating some masterpiece from my end !</h3>
